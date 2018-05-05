@@ -42,13 +42,9 @@ del **UX Desing Process**
 ¿Te has preguntado que pasaría si en este momento tuvieras un accidente? ¿Podrías cubrir con los gastos? ¿A quién recurrirías en este tipo de emergencia? Estas preguntas seguro te harán pensar en que 
 es importante estar consientes de que todos corremos riesgos todo el tiempo y es mejor estar prevenido. 
 
-Sin embargo en México, sólo el 25% de la población cuenta con un seguro de prevención esto según la **Encuesta Nacional de Inclusión Financiera** 2015 **(ENIF)** quien levantó encuestas acerca de productos de seguros a 
-76.1 millones de adultos de 18 a 70 años. La ENIF es la principal fuente de datos a nivel nacional sobre el acceso y uso de servicios financieros desde la perspectiva de la demanda, obteniendo información por tipo de localidad y por género.
+Sin embargo en **México** sólo el 25% de la población cuenta con un seguro de prevención, esto según la **Encuesta Nacional de Inclusión Financiera (ENIF)**  2015. La ENIF es la principal fuente de datos a nivel nacional sobre el acceso y uso de servicios financieros desde la perspectiva de la demanda. Con un total de 76.1 millones de encuentas levantadas podemos entender información en diferentes categorías: género, localidad, total poblacional. 
 
-### - User Persona 
-Basado en la información del **ENIF 2015**. 
-
-- Población Encuestada: Adultos (40,027 mujeres - 36,129,516 hombres) residentes de viviendas particulates dentro del territorio nacional a las cuales se les realizaron las siguientes preguntas: 
+**Población Encuestada**: Adultos (40,027 mujeres - 36,129,516 hombres) residentes de viviendas particulates dentro del territorio nacional a las cuales se les realizaron las siguientes preguntas: 
 
 #### Resultados Socioeconómicos (ENIF 2015):
 
@@ -113,3 +109,5 @@ El objetivo es conocer el número de personas que se encuentras asegurados, el g
 Del análisis de las respuestas de **ENIF 2015** se crearon los siguientes perfiles: 
 
 ![user-persona](https://user-images.githubusercontent.com/32876098/39667004-9e9590b6-5072-11e8-9b47-679bf675a071.jpg)
+
+
