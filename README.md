@@ -43,21 +43,30 @@ es importante estar consientes de que todos corremos riesgos todo el tiempo y es
 Sin embargo en México, sólo el 25% de la población cuenta con un seguro de prevención esto según la **Encuesta Nacional de Inclusión Financiera** 2015 **(ENIF)** quien levantó encuestas acerca de productos de seguros a 
 76.1 millones de adultos de 18 a 70 años. La ENIF es la principal fuente de datos a nivel nacional sobre el acceso y uso de servicios financieros desde la perspectiva de la demanda, obteniendo información por tipo de localidad y por género.
 
-La construcción del User Persona está basado en la información del **ENIF 2015**. 
+### - User Persona 
+Basado en la información del **ENIF 2015**. 
 
-Población Encuestada: Adultos (40,027 mujeres - 36,129,516 hombres) residentes de viviendas particulates dentro del territorio nacional a las cuales se les realizaron las siguientes preguntas: 
+- Población Encuestada: Adultos (40,027 mujeres - 36,129,516 hombres) residentes de viviendas particulates dentro del territorio nacional a las cuales se les realizaron las siguientes preguntas: 
+
+#### Resultados Socioeconómicos (ENIF 2015):
 
 El 41.7% es **"Jefe de hogar"** (64.4% hombres - 21.3% mujeres) seguido de **"Esposo o compañero"** con el 20.07% (48.9% mujeres - 2.8% hombres)
 
 ![enif-2015-rol](https://user-images.githubusercontent.com/32876098/39657809-29d1284a-4fd1-11e8-891a-d7bbba540026.png)
 
+<hr>
+
 45.5% es **"Casado"** (47.8% hombres - 43.5% mujeres) mientras que el 23.2% es **"Soltero"** (25.1% hombres - 21.6% mujeres).
 
 ![enif-2015-edo-civil](https://user-images.githubusercontent.com/32876098/39658347-7c4eb680-4fd8-11e8-8ee4-68757fd051c4.png)
 
+<hr>
+
 **"Ocupación"** 63.7% **Trabaja** (83.2% hombres - 46.1% mujeres) **Se dedica a quehaceres del hogar** 21.8% (41.3% mujeres - 0.3% hombres)
 
 ![enif-2015-usted](https://user-images.githubusercontent.com/32876098/39657722-42fba3b4-4fd0-11e8-9f0a-6168598a90ad.png)
+
+<hr>
 
 **"Ingresos"** El 48.4% recibe **Hasta $1499.00** de los cuales el 57.8% lo hace a la **Semana**  es decir alrededor de $6000.00 al mes (55.4% mujeres - 43.6% hombres)
 
@@ -65,12 +74,22 @@ El 41.7% es **"Jefe de hogar"** (64.4% hombres - 21.3% mujeres) seguido de **"Es
 
 ![enif-2015-cada-cuando](https://user-images.githubusercontent.com/32876098/39657727-437d30dc-4fd0-11e8-99a8-ef313d9df791.png)
 
+<hr>
+
 **"Cuenta con celular"** 74.9% Sí 
 
 ![enif-2015-tiene-celular](https://user-images.githubusercontent.com/32876098/39657721-42e1cbec-4fd0-11e8-970d-eb6a8b5a30c0.png)
 
+<hr>
+
 **"Permite descargar fb, tw y whatsapp"** Si (66.1%) 
 
 ![enif-2015-apps](https://user-images.githubusercontent.com/32876098/39657726-4360895a-4fd0-11e8-9853-955a5e89b5a2.png)
+
+<hr>
+
+#### Acerca de seguros en México (ENIF 2015):
+
+
 
 
