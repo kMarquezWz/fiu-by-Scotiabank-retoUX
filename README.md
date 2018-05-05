@@ -43,7 +43,7 @@ del **UX Desing Process**
 
 Sin embargo en **México** sólo el 25% de la población cuenta con un seguro de prevención, esto según la **Encuesta Nacional de Inclusión Financiera (ENIF)**  2015. La ENIF es la principal fuente de datos a nivel nacional sobre el acceso y uso de servicios financieros desde la perspectiva de la demanda. Con un total de 76.1 millones de encuentas levantadas podemos entender información en diferentes categorías como: género, localidad y total poblacional. 
 
-**Población Encuestada**: 40,027 mujeres - 36,129,516 hombres de entre 18 y 70 años residentes de viviendas particulares dentro del territorio nacional. 
+**Población Encuestada**: 40,027,572 mujeres - 36,129,516 hombres de entre 18 y 70 años residentes de viviendas particulares dentro del territorio nacional. 
 
 #### Resultados Socioeconómicos (ENIF 2015):
 
