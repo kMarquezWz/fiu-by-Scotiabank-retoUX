@@ -32,19 +32,18 @@ Esta es mi propuesta para **FIU! Seguros** by Scotiabank.
 
 # **FIU! Seguros**. "a-la Segura" con Scotiabank
 
-Bajo la propuesta del UX Designer, este proyecto busca crear una solución para resolver un problema de la manera más fácil, intuitiva, eficiente y con buen gusto tomando en cuenta primero y siempre al usuario. La propuesta se formó a través de la metodología
+Bajo la propuesta de productos centrados en el cliente, este proyecto busca crear una solución para resolver un problema de la manera más fácil, intuitiva, eficiente y con buen gusto tomando en cuenta primero y siempre al usuario. La propuesta se formó a través de la metodología
 del **UX Desing Process** 
 
 ![ux-px](https://user-images.githubusercontent.com/32876098/39667145-4cc18800-5075-11e8-87e2-20e178bae003.png)
 
 ## DISCOVER
 
-¿Te has preguntado que pasaría si en este momento tuvieras un accidente? ¿Podrías cubrir con los gastos? ¿A quién recurrirías en este tipo de emergencia? Estas preguntas seguro te harán pensar en que 
-es importante estar consientes de que todos corremos riesgos todo el tiempo y es mejor estar prevenido. 
+¿Te has preguntado que pasaría si en este momento tuvieras un accidente? ¿Podrías cubrir los gastos? ¿A quién recurrirías en este tipo de emergencia? Estas preguntas seguro te harán recordar la importancia de estar concientes de los riesgos que corremos todo el tiempo y es mejor estar prevenido ante cualquier incidente. 
 
-Sin embargo en **México** sólo el 25% de la población cuenta con un seguro de prevención, esto según la **Encuesta Nacional de Inclusión Financiera (ENIF)**  2015. La ENIF es la principal fuente de datos a nivel nacional sobre el acceso y uso de servicios financieros desde la perspectiva de la demanda. Con un total de 76.1 millones de encuentas levantadas podemos entender información en diferentes categorías: género, localidad, total poblacional. 
+Sin embargo en **México** sólo el 25% de la población cuenta con un seguro de prevención, esto según la **Encuesta Nacional de Inclusión Financiera (ENIF)**  2015. La ENIF es la principal fuente de datos a nivel nacional sobre el acceso y uso de servicios financieros desde la perspectiva de la demanda. Con un total de 76.1 millones de encuentas levantadas podemos entender información en diferentes categorías como: género, localidad y total poblacional. 
 
-**Población Encuestada**: Adultos (40,027 mujeres - 36,129,516 hombres) residentes de viviendas particulates dentro del territorio nacional a las cuales se les realizaron las siguientes preguntas: 
+**Población Encuestada**: 40,027 mujeres - 36,129,516 hombres de entre 18 y 70 años residentes de viviendas particulares dentro del territorio nacional. 
 
 #### Resultados Socioeconómicos (ENIF 2015):
 
