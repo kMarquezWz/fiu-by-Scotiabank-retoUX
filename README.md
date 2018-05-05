@@ -33,9 +33,11 @@ Esta es mi propuesta para **FIU! Seguros** by Scotiabank.
 # **FIU! Seguros**. "a-la Segura" con Scotiabank
 
 Bajo la propuesta del UX Designer, este proyecto busca crear una solución para resolver un problema de la manera más fácil, intuitiva, eficiente y con buen gusto tomando en cuenta primero y siempre al usuario. La propuesta se formó a través de la metodología
-del **Design Think** 
+del **UX Desing Process** 
 
-## 0-CREANDO EMPATÍA 
+![ux-px](https://user-images.githubusercontent.com/32876098/39667145-4cc18800-5075-11e8-87e2-20e178bae003.png)
+
+## DISCOVER
 
 ¿Te has preguntado que pasaría si en este momento tuvieras un accidente? ¿Podrías cubrir con los gastos? ¿A quién recurrirías en este tipo de emergencia? Estas preguntas seguro te harán pensar en que 
 es importante estar consientes de que todos corremos riesgos todo el tiempo y es mejor estar prevenido. 
@@ -90,6 +92,24 @@ El 41.7% es **"Jefe de hogar"** (64.4% hombres - 21.3% mujeres) seguido de **"Es
 
 #### Acerca de seguros en México (ENIF 2015):
 
+El objetivo es conocer el número de personas que se encuentras asegurados, el grado de conocimiento que tienen los usuarios d eestos servicios (costo de póliza, cobertura contratada) así como enterarnos si los usuarios compparan los servicios respecto a otras aseguradoras y si éstas les proporcionan la sufisciente información. 
 
+**"Cuentas con algún seguro"** 73.1 % No (75.6% mujeres - 70.4% hombres) 24.8% Sí (27.7% hombres - 22.2% mujeres))
 
+![enif-2015-cuenta-con-seguro](https://user-images.githubusercontent.com/32876098/39666577-55094322-506b-11e8-8115-b634e120378f.png)
 
+![tuvo-seguro](https://user-images.githubusercontent.com/32876098/39666624-1bdcfc14-506c-11e8-8e6e-d8010084d2d3.png)
+<hr>
+
+**"¿Por qué no dispone de algún seguro?"** 27.5% **Son muy caros** 25.9% **No saben cómo son, cómo funcionan o dónde solicitarlos** 
+![estadisticas-razones-seguros](https://user-images.githubusercontent.com/32876098/39666734-109a1286-506e-11e8-843d-c7c4f52d058f.png)
+<hr>
+
+**"Tipo de seguro"** 74.5% **Seguro de vida** 36.3% **Seguro de auto** 27.0% **Seguro de gastos médicos** 14.4% **Seguros contra accidentes** 12.3% **Seguro de casa**
+![enif-2105-tipo-de-seguro](https://user-images.githubusercontent.com/32876098/39666872-580d08b0-5070-11e8-8aee-0d52f1ff7fbf.png)
+
+## DEFINE
+
+Del análisis de las respuestas de **ENIF 2015** se crearon los siguientes perfiles: 
+
+![user-persona](https://user-images.githubusercontent.com/32876098/39667004-9e9590b6-5072-11e8-9b47-679bf675a071.jpg)
