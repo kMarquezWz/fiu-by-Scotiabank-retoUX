@@ -24,6 +24,8 @@ Los contenidos del email y la Publicación así como el medio a definir, deben t
 
 <hr>
 
+![me-link](https://user-images.githubusercontent.com/32876098/39659385-c34d3a48-4fec-11e8-94aa-d1252370925e.png)
+
 Soy **Brenda Milián** oaxaqueña de 25 años. Psicóloga por la FES Iztacala. Tengo una especialidad en UX Designer por Laboratoria que me ha permitido explotar mi papel como UX Research y Product Owner. 
 
 Esta es mi propuesta para **FIU! Seguros** by Scotiabank.
@@ -60,12 +62,15 @@ El 41.7% es **"Jefe de hogar"** (64.4% hombres - 21.3% mujeres) seguido de **"Es
 **"Ingresos"** El 48.4% recibe **Hasta $1499.00** de los cuales el 57.8% lo hace a la **Semana**  es decir alrededor de $6000.00 al mes (55.4% mujeres - 43.6% hombres)
 
 ![enif-2015-cuanto-gana](https://user-images.githubusercontent.com/32876098/39657730-440fdbd0-4fd0-11e8-93c5-76c852fd96e2.png)
+
 ![enif-2015-cada-cuando](https://user-images.githubusercontent.com/32876098/39657727-437d30dc-4fd0-11e8-99a8-ef313d9df791.png)
 
 **"Cuenta con celular"** 74.9% Sí 
+
 ![enif-2015-tiene-celular](https://user-images.githubusercontent.com/32876098/39657721-42e1cbec-4fd0-11e8-970d-eb6a8b5a30c0.png)
 
 **"Permite descargar fb, tw y whatsapp"** Si (66.1%) 
+
 ![enif-2015-apps](https://user-images.githubusercontent.com/32876098/39657726-4360895a-4fd0-11e8-9853-955a5e89b5a2.png)
 
 
