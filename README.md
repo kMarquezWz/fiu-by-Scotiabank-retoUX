@@ -37,7 +37,11 @@ del **UX Desing Process**
 
 ![ux-px](https://user-images.githubusercontent.com/32876098/39667145-4cc18800-5075-11e8-87e2-20e178bae003.png)
 
-## DISCOVER
+## DISCOVER: Bussines
+
+![como-somos](https://user-images.githubusercontent.com/32876098/39667738-3c3e6ab8-5082-11e8-8be9-e1457c807ce5.png)
+
+## DISCOVEr: User Persona
 
 ¿Te has preguntado que pasaría si en este momento tuvieras un accidente? ¿Podrías cubrir los gastos? ¿A quién recurrirías en este tipo de emergencia? Estas preguntas seguro te harán recordar la importancia de estar concientes de los riesgos que corremos todo el tiempo y es mejor estar prevenido ante cualquier incidente. 
 
