@@ -41,7 +41,15 @@ del **UX Desing Process**
 
 ![como-somos](https://user-images.githubusercontent.com/32876098/39667738-3c3e6ab8-5082-11e8-8be9-e1457c807ce5.png)
 
-## DISCOVEr: User Persona
+Seguros FIU! es una guía de ayuda a las personas para escoger la mejor opción de seguros de todo tipo, esto con el objetivo de que los usuarios tomen decisiones informadas a través de la mejor experiencia de usuario. FIU! simplifica esta elección y le da al usuario el poder de elejir lo mejor para ellos y sus necesidades. 
+
+Pensando en FIU! seguros es como uno de tus mejores amigos que no veías hace años y que quiere recomendarte lo mejor para ti y tu familia. Es amigable, seguro de sí mismo, con un tono casual, confiado y persuasivo. Entiendes lo que dice porque habla directo y simple. 
+
+FIU! es una plataforma web abierta y transparente. Evita la comunicación corporativa y rebuscada. Ofrece información puntual, clara y detallada para ayudar a los usuarios a escoger la mejor opción. no sólo es una tienda online, es una herramienta que pone al alcance de los usuarios las posibilidades de comparar entre las más cotizadas aseguradoras. 
+
+
+
+## DISCOVER: User Persona
 
 ¿Te has preguntado que pasaría si en este momento tuvieras un accidente? ¿Podrías cubrir los gastos? ¿A quién recurrirías en este tipo de emergencia? Estas preguntas seguro te harán recordar la importancia de estar concientes de los riesgos que corremos todo el tiempo y es mejor estar prevenido ante cualquier incidente. 
 
@@ -113,4 +121,19 @@ Del análisis de las respuestas de **ENIF 2015** se crearon los siguientes perfi
 
 ![user-persona](https://user-images.githubusercontent.com/32876098/39667004-9e9590b6-5072-11e8-9b47-679bf675a071.jpg)
 
+## IDEATE
+
+El análisis de la información permitió arquitecturar la información de tal manera que el usuario tuviera claro quién es FIU! Seguros, a que se dedica, los beneficios, algunos testimonios para dar seguridad y confianza al usuario, mostrar los productos que ofrece, el tipo de contacto que pueden tener entre usuario-cliente y elementos que ayuden a la conversión de los visitantes. 
+
+#### Wireframes 
+
+**HOME** Hecho en: Marvel
+
+![landingpage-artboard](https://user-images.githubusercontent.com/32876098/39677539-39599082-5142-11e8-94bd-bac8b2ad24cb.png)
+
+**EMAIL** Hecho en: Marvel 
+![email-art](https://user-images.githubusercontent.com/32876098/39677550-5064df52-5142-11e8-943a-00187832b900.png)
+
+**BANNER PROGRAMATIC** Hecho en: Marvel
+![banner-programatic](https://user-images.githubusercontent.com/32876098/39677552-669fbb84-5142-11e8-98c7-3ebc97a6d8e2.png)
 
