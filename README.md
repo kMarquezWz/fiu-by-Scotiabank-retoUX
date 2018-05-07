@@ -117,10 +117,15 @@ El objetivo es conocer el número de personas que se encuentras asegurados, el g
 
 ## DEFINE
 
+### USER PERSONA
+
 Del análisis de las respuestas de **ENIF 2015** se crearon los siguientes perfiles: 
 
 ![user-persona](https://user-images.githubusercontent.com/32876098/39667004-9e9590b6-5072-11e8-9b47-679bf675a071.jpg)
 
+### COUSTOMER JOURNEY MAP
+
+![coustomer-journey](https://user-images.githubusercontent.com/32876098/39685557-08c024bc-5189-11e8-95de-e46e4259c755.png)
 ## IDEATE
 
 El análisis de la información permitió arquitecturar la información de tal manera que el usuario tuviera claro quién es FIU! Seguros, a que se dedica, los beneficios, algunos testimonios para dar seguridad y confianza al usuario, mostrar los productos que ofrece, el tipo de contacto que pueden tener entre usuario-cliente y elementos que ayuden a la conversión de los visitantes. 
