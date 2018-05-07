@@ -152,9 +152,13 @@ Del análisis de las respuestas de **ENIF 2015** se crearon los siguientes perfi
 
 ### COUSTOMER JOURNEY MAP
 
+La contrucción de este instrumento de empatía con el usuario es muy importante dado que nos brinda un posible recorrido del usuario y las decisiones que tomaría respeco al produco que queremos vender y así poder entender mejor los pain y gain points para partir de estos e implementar soluciones. 
+
 ![coustomer-journey](https://user-images.githubusercontent.com/32876098/39685557-08c024bc-5189-11e8-95de-e46e4259c755.png)
 
 ### MAPA DE EMPATÍA
+
+El siguiente mapa permite entender al usuario desde diferentes perspectivas, "lo que ve" "lo que siente" "lo que piensa" "lo que hace" además de sus motivaciones y posibles esfuerzos que tendrá que hacer al momento de contratar un seguro. 
 
 ![mapa de empatia](https://user-images.githubusercontent.com/32876098/39689039-bbec77d2-519a-11e8-9956-c703e5ae216e.jpg)
 
@@ -165,6 +169,16 @@ El análisis de la información permitió arquitecturar la información de tal m
 #### WIREFRAMES 
 
 **HOME** Hecho en: Marvel
+
+Mi propuesta de landing page está estructurada de la siguiente manera: 
+- **Encabezado: Call To Action**
+- **Menú items**
+- **Segmento de argumentación: Call To Action**
+- **Beneficios**
+- **Testimonios**
+- **Partners**
+- **Productos**
+- **Suscribete: Call To Action**
 
 ![landingpage-artboard](https://user-images.githubusercontent.com/32876098/39677539-39599082-5142-11e8-94bd-bac8b2ad24cb.png)
 
