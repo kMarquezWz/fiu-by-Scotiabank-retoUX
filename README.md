@@ -23,10 +23,7 @@ Los contenidos del email y la Publicación así como el medio a definir, deben t
 4. Fecha de entrega del reto: lunes 7 de Mayo 2018
 
 <hr>
-
-![me-link](https://user-images.githubusercontent.com/32876098/39659385-c34d3a48-4fec-11e8-94aa-d1252370925e.png)
-
-Soy **Brenda Milián** oaxaqueña de 25 años. Psicóloga por la FES Iztacala. Tengo una especialidad en UX Designer por Laboratoria que me ha permitido explotar mi papel como UX Research y Product Owner. 
+![link-m e](https://user-images.githubusercontent.com/32876098/39711104-56889d54-51e4-11e8-9f30-5b2959329651.png)
 
 Esta es mi propuesta para **FIU! Seguros** by Scotiabank.
 
