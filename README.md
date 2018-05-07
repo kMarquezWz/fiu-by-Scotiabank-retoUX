@@ -126,6 +126,11 @@ Del análisis de las respuestas de **ENIF 2015** se crearon los siguientes perfi
 ### COUSTOMER JOURNEY MAP
 
 ![coustomer-journey](https://user-images.githubusercontent.com/32876098/39685557-08c024bc-5189-11e8-95de-e46e4259c755.png)
+
+### MAPA DE EMPATÍA
+
+![mapa de empatia](https://user-images.githubusercontent.com/32876098/39689039-bbec77d2-519a-11e8-9956-c703e5ae216e.jpg)
+
 ## IDEATE
 
 El análisis de la información permitió arquitecturar la información de tal manera que el usuario tuviera claro quién es FIU! Seguros, a que se dedica, los beneficios, algunos testimonios para dar seguridad y confianza al usuario, mostrar los productos que ofrece, el tipo de contacto que pueden tener entre usuario-cliente y elementos que ayuden a la conversión de los visitantes. 
