@@ -23,19 +23,51 @@ Los contenidos del email y la Publicación así como el medio a definir, deben t
 4. Fecha de entrega del reto: lunes 7 de Mayo 2018
 
 <hr>
-![link-m e](https://user-images.githubusercontent.com/32876098/39711104-56889d54-51e4-11e8-9f30-5b2959329651.png)
 
-Esta es mi propuesta para **FIU! Seguros** by Scotiabank.
+![link-m](https://user-images.githubusercontent.com/32876098/39711145-7a2b3a5a-51e4-11e8-8891-b68da819c2bf.png)
 
 # **FIU! Seguros**. "a-la Segura" con Scotiabank
 
-Bajo la propuesta de productos centrados en el cliente, este proyecto busca crear una solución para resolver un problema de la manera más fácil, intuitiva, eficiente y con buen gusto tomando en cuenta primero y siempre al usuario. La propuesta se formó a través de la metodología
-del **UX Desing Process** 
+Siguiendo la tendencia de productos centrados en el cliente, este proyecto busca crear una solución para resolver un problema fácil, intuitiva, eficientemente y con buen gusto, tomando en cuenta primero y siempre al usuario. Mi propuesta se formó a través de la metodología **UX Desing Process**.
 
 ![ux-px](https://user-images.githubusercontent.com/32876098/39667145-4cc18800-5075-11e8-87e2-20e178bae003.png)
 
+Esta optimización tiene como objetivos: 
+- Innovar y replantear, siguiendo los sistemas de diseño basados en tiendas online, el contenido para que los usuarios tomen decisiones informada. 
+- Mejorar la experiencia de usuario para se sienta confiado y seguro al momento de elegir algún tipo de seguro.
+- Adecuar el lenguaje como a un personaje "al que le tiene confianza, es su amigo y quiere lo mejor para él y su familia" para empatizar con el cliente y tratarlo de manera personal.
+
+### PROCESO
+
+###### DISCOVER
+- BUSINESS
+  - Vision | Goals
+  - FODA 
+- USER 
+  - UX research: **ENIF 2015**
+###### DEFINE
+- USER
+  - User Persona | Storyboards
+  - Journey Coustumer Map 
+  - Mapa de empatía
+  
+###### IDEATE
+- WIREFRAMES
+  - Arquitectura de la información
+  - Scketching 
+  - interacción
+###### PROTOTYPE
+- MOCKUPS
+  - Diseño de interface
+  - Guía de estilo 
+  - Interacción
+###### IMPLEMENT
+- MOCKUP END
+<hr>
+
 ## DISCOVER: Bussines
 
+###### VISION | GOALS
 ![como-somos](https://user-images.githubusercontent.com/32876098/39667738-3c3e6ab8-5082-11e8-8be9-e1457c807ce5.png)
 
 Seguros FIU! es una guía de ayuda a las personas para escoger la mejor opción de seguros de todo tipo, esto con el objetivo de que los usuarios tomen decisiones informadas a través de la mejor experiencia de usuario. FIU! simplifica esta elección y le da al usuario el poder de elejir lo mejor para ellos y sus necesidades. 
@@ -43,8 +75,6 @@ Seguros FIU! es una guía de ayuda a las personas para escoger la mejor opción 
 Pensando en FIU! seguros es como uno de tus mejores amigos que no veías hace años y que quiere recomendarte lo mejor para ti y tu familia. Es amigable, seguro de sí mismo, con un tono casual, confiado y persuasivo. Entiendes lo que dice porque habla directo y simple. 
 
 FIU! es una plataforma web abierta y transparente. Evita la comunicación corporativa y rebuscada. Ofrece información puntual, clara y detallada para ayudar a los usuarios a escoger la mejor opción. no sólo es una tienda online, es una herramienta que pone al alcance de los usuarios las posibilidades de comparar entre las más cotizadas aseguradoras. 
-
-
 
 ## DISCOVER: User Persona
 
