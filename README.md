@@ -99,7 +99,7 @@ El 41.7% es **"Jefe de hogar"** (64.4% hombres - 21.3% mujeres) seguido de **"Es
 
 #### Acerca de seguros en México (ENIF 2015):
 
-El objetivo es conocer el número de personas que se encuentras asegurados, el grado de conocimiento que tienen los usuarios d eestos servicios (costo de póliza, cobertura contratada) así como enterarnos si los usuarios compparan los servicios respecto a otras aseguradoras y si éstas les proporcionan la sufisciente información. 
+El objetivo es conocer el número de personas que se encuentran aseguradas, el grado de conocimiento que tienen  acerca de los seguros (costo de póliza, cobertura contratada) y el porcentaje de comparación respecto a otras aseguradoras.
 
 **"Cuentas con algún seguro"** 73.1 % No (75.6% mujeres - 70.4% hombres) 24.8% Sí (27.7% hombres - 22.2% mujeres))
 
@@ -130,7 +130,7 @@ Del análisis de las respuestas de **ENIF 2015** se crearon los siguientes perfi
 
 El análisis de la información permitió arquitecturar la información de tal manera que el usuario tuviera claro quién es FIU! Seguros, a que se dedica, los beneficios, algunos testimonios para dar seguridad y confianza al usuario, mostrar los productos que ofrece, el tipo de contacto que pueden tener entre usuario-cliente y elementos que ayuden a la conversión de los visitantes. 
 
-#### Wireframes 
+#### WIREFRAMES 
 
 **HOME** Hecho en: Marvel
 
@@ -141,4 +141,5 @@ El análisis de la información permitió arquitecturar la información de tal m
 
 **BANNER PROGRAMATIC** Hecho en: Marvel
 ![banner-programatic](https://user-images.githubusercontent.com/32876098/39677552-669fbb84-5142-11e8-98c7-3ebc97a6d8e2.png)
+
 
