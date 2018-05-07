@@ -168,9 +168,8 @@ El análisis de la información permitió arquitecturar la información de tal m
 
 #### WIREFRAMES 
 
-**HOME** Hecho en: Marvel
-
-Mi propuesta de landing page está estructurada de la siguiente manera: 
+**HOME** Hecho en Marvel y con la siguiente estructura:
+ 
 - **Encabezado: Call To Action**
 - **Menú items**
 - **Segmento de argumentación: Call To Action**
@@ -179,13 +178,41 @@ Mi propuesta de landing page está estructurada de la siguiente manera:
 - **Partners**
 - **Productos**
 - **Suscribete: Call To Action**
+- **Footer**
 
 ![landingpage-artboard](https://user-images.githubusercontent.com/32876098/39677539-39599082-5142-11e8-94bd-bac8b2ad24cb.png)
+<hr>
 
-**EMAIL** Hecho en: Marvel 
+**EMAIL** La decisión de hacer una propuesta de email es por el tráfico que podemos crear a partir de una herramienta tan poderosa como el correo electronico. Es una manera eficaz de suscribirse y además un medio que revisan a diario varias veces al día. Estos son algunos datos estadísticos acerca del email marketing:
+
+- El 82% de negocios recurren a las campañas de Email Marketing.
+- Los correos electrónicos personalizados logran aumentar la tasa de CTR en un 14% y las conversiones en un 10%.
+- Los emails con asuntos personalizados tienen un 26% más de probabilidades de ser abiertos.
+- Los correos electrónicos segmentados generan el 58% de las ganancias totales.
+- Los suscriptores por correo electrónico tienen 3 veces más probabilidades de compartir tu contenido en las Redes Sociales que los usuarios que acceden a tu contenido desde otras plataformas.
+- El 72% de las personas prefieren recibir contenidos promocionales a través de sus correos electrónicos que mediante las Redes Sociales.
+- Incluir un Llamado a la Acción en lugar de un enlace textual aumenta la tasa de conversión en un 28%.
+- El 57% de los suscriptores vía email pasa de 10 a 60 minutos semanales explorando correos promocionales.
+**Fuente: www.socialtools.me**
+
+Hecho en Marvel y con la siguiente estructura: 
+- **Encabezado: Call To Action**
+- **Menú items**
+- **Segmento de argumentación: Call To Action**
+- **Beneficios**
+- **Testimonios**
+- **Partners**
+- **Productos**
+- **Suscribete: Call To Action**
+- **Footer**
+
 ![email-art](https://user-images.githubusercontent.com/32876098/39677550-5064df52-5142-11e8-943a-00187832b900.png)
 
 **BANNER PROGRAMATIC** Hecho en: Marvel
 ![banner-programatic](https://user-images.githubusercontent.com/32876098/39677552-669fbb84-5142-11e8-98c7-3ebc97a6d8e2.png)
 
+<hr>
 
+#### FUENTES
+
+https://www.socialtools.me/blog/como-repensar-tu-estrategia-de-email-marketing/ 
