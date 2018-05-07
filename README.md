@@ -50,7 +50,6 @@ Esta optimización tiene como objetivos:
   - User Persona | Storyboards
   - Journey Coustumer Map 
   - Mapa de empatía
-  
 ###### IDEATE
 - WIREFRAMES
   - Arquitectura de la información
@@ -193,26 +192,53 @@ El análisis de la información permitió arquitecturar la información de tal m
 - El 72% de las personas prefieren recibir contenidos promocionales a través de sus correos electrónicos que mediante las Redes Sociales.
 - Incluir un Llamado a la Acción en lugar de un enlace textual aumenta la tasa de conversión en un 28%.
 - El 57% de los suscriptores vía email pasa de 10 a 60 minutos semanales explorando correos promocionales.
+
 **Fuente: www.socialtools.me**
 
-Hecho en Marvel y con la siguiente estructura: 
-- **Encabezado: Call To Action**
-- **Menú items**
-- **Segmento de argumentación: Call To Action**
-- **Beneficios**
-- **Testimonios**
-- **Partners**
-- **Productos**
-- **Suscribete: Call To Action**
+Hecho en **Marvel** y con la siguiente estructura: 
+- **Asunto personalizado**
+- **Datos de email**
+- **Banner de promoción: Call To Action**
+- **Artículo de interés**
+- **Enlace a redes sociales: Call To Action**
+- **Testimonios - Productos**
+- **Banner de promoción: Call to action**
 - **Footer**
 
 ![email-art](https://user-images.githubusercontent.com/32876098/39677550-5064df52-5142-11e8-943a-00187832b900.png)
+<hr>
 
-**BANNER PROGRAMATIC** Hecho en: Marvel
+**BANNER PROGRAMATIC** 
+
+Hecho en **Marvel** y con la siguiente estructura: 
+- **Logo**
+- **Título de campaña**
+- **Argumento**
+- **Call To Action**
+- **Imagen de refuerzo**
+
 ![banner-programatic](https://user-images.githubusercontent.com/32876098/39677552-669fbb84-5142-11e8-98c7-3ebc97a6d8e2.png)
+<hr>
+
+### IMPLEMENT: MOCKUP END
+
+https://marvelapp.com/35f9ddj
 
 <hr>
 
 #### FUENTES
-
+http://www.beta.inegi.org.mx/proyectos/enchogares/especiales/enif/2015/
 https://www.socialtools.me/blog/como-repensar-tu-estrategia-de-email-marketing/ 
+http://www.milenio.com/negocios/seguros-prevencion-metas-financieras-finanzas_personales_0_971902930.html
+http://www.designyourway.net/drb/30-interesting-examples-of-headers-in-web-design/
+
+#### INSPIRACION
+https://www.pinterest.com.mx/breenmilian/layouts/
+https://fiu.mx/home?gclid=CjwKCAjw8r_XBRBkEiwAjWGLlGPSB24Hw5y5sTvlx77mvsOLW6BzlFF7tRQ9lfPFIYZ2TlT1MyW4gRoCTF8QAvD_BwE
+https://www.metlife.com.mx/
+https://www.gnp.com.mx/
+
+#### HERRAMIENTAS UTILIZADAS
+https://marvelapp.com/
+https://www.canva.com/
+https://www.flaticon.com/
