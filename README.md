@@ -246,7 +246,7 @@ https://www.flaticon.com/
 <hr>
 
 Create by **Brenda Milián** 
-www.linkedin.com/in/brenda-milián
-https://www.facebook.com/brenda.milian.96
-https://twitter.com/BrenMilian
-http://claroscurobm.blogspot.mx/
+- www.linkedin.com/in/brenda-milián
+- https://www.facebook.com/brenda.milian.96
+- https://twitter.com/BrenMilian
+- http://claroscurobm.blogspot.mx/
